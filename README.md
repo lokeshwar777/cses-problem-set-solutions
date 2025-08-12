@@ -1,0 +1,40 @@
+# [@lokeshwar777](https://cses.fi/problemset/user/290440)'s CSES ACs
+
+## Introductory Problems
+
+| S.No | Title                                                         | Sub. Links                                                                                                  | Add. Links                                                                                                     |
+| ---- | ------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
+| 1    | [Weird Algorithm](https://cses.fi/problemset/task/1068)       | [CPP](https://cses.fi/paste/6eabf4fd7e7088d2b391ef/)                                                        |                                                                                                                |
+| 2    | [Missing Number](https://cses.fi/problemset/task/1083/)       | [CPP](https://cses.fi/paste/74ed3e7ff22c2a3cb39a9f/)                                                        |                                                                                                                |
+| 3    | [Repetitions](https://cses.fi/problemset/task/1069)           | [CPP](https://cses.fi/paste/fbcd9c01ebb3412cb3cd93/)                                                        |                                                                                                                |
+| 4    | [Increasing Array](https://cses.fi/problemset/task/1094)      | [CPP](https://cses.fi/paste/7c23a14801c432d9b402cf/)                                                        |                                                                                                                |
+| 5    | [Permutations](https://cses.fi/problemset/task/1070)          | [CPP](https://cses.fi/paste/dcbe1fce9aa27b96b4164e/)                                                        |                                                                                                                |
+| 6    | [Number Spiral](https://cses.fi/problemset/task/1071)         | [CPP](https://cses.fi/paste/77de7afd350ce9e8cf07bd/) \| [PY](https://cses.fi/paste/8eb4af710594aa42d6eaf8/) | [CPP1](https://cses.fi/paste/ab76ae4760354575b85e5d/)                                                          |
+| 7    | [Two Knights](https://cses.fi/problemset/task/1072)           | [CPP](https://cses.fi/paste/784969f8437399c4b89bbe/) \| [PY](https://cses.fi/paste/85dc9d96b3d6d69ed360ac/) |                                                                                                                |
+| 8    | [Two Sets](https://cses.fi/problemset/task/1092)              | [CPP](https://cses.fi/paste/5391602d77f315e6b4563c/)                                                        |                                                                                                                |
+| 9    | [Bit Strings](https://cses.fi/problemset/task/1617)           | [CPP](https://cses.fi/paste/afdfc748d56f115eb464a2/)                                                        |                                                                                                                |
+| 10   | [Trailing Zeros](https://cses.fi/problemset/task/1618)        | [CPP](https://cses.fi/paste/84b1d960e836f698b89d9e/)                                                        |                                                                                                                |
+| 11   | [Coin Piles](https://cses.fi/problemset/task/1754)            | [CPP](https://cses.fi/paste/415da3debffd6d87b981fd/) \| [PY](https://cses.fi/paste/06e3ebbca31b153ed42f95/) |                                                                                                                |
+| 12   | [Palindrome Reorder](https://cses.fi/problemset/task/1755)    | [CPP](https://cses.fi/paste/9bf1ca93a404ef21b49b71/)                                                        |                                                                                                                |
+| 13   | [Gray Code](https://cses.fi/problemset/task/2205)             | [CPP](https://cses.fi/paste/76856481bbc6793dba0f39/) \| [PY](https://cses.fi/paste/998fdd64da09af17d4b702/) |                                                                                                                |
+| 14   | [Tower of Hanoi](https://cses.fi/problemset/task/2165)        | [CPP](https://cses.fi/paste/0127d42379cba105c0996e/) \| [PY](https://cses.fi/paste/42477c3a2951d60ad5014f/) |                                                                                                                |
+| 15   | [Creating Strings](https://cses.fi/problemset/task/1622)      | [CPP](https://cses.fi/paste/c5445bb7bb100d6caed8f9/)                                                        | [CPP1](https://cses.fi/paste/79b58a282aa4d978aed9c4/)                                                          |
+| 16   | [Apple Division](https://cses.fi/problemset/task/1623)        | [CPP](https://cses.fi/paste/711dd3bb0c80febeaed899/)                                                        |                                                                                                                |
+| 17   | [Chessboard and Queens](https://cses.fi/problemset/task/1624) | [CPP](https://cses.fi/paste/c678459b0dfb13a6c0acc6/)                                                        | [CPP1](https://cses.fi/paste/6221bc2144a883eec0acb5/) \| [CPP2](https://cses.fi/paste/d2e23a371feb3837c0aab4/) |
+| 18   | [Raab Game I](https://cses.fi/problemset/task/3399)           | [PY](https://cses.fi/paste/7e0cedd0b9510f07d541d9/)                                                         |                                                                                                                |
+| 19   | [Mex Grid Construction](https://cses.fi/problemset/task/3419) | [CPP](https://cses.fi/paste/81557f3caa64d64fc4a0fa/) \| [PY](https://cses.fi/paste/b02c9e1f0d07d679d6fde7/) |                                                                                                                |
+| 20   | [Knight Moves Grid](https://cses.fi/problemset/task/3217)     | [CPP](https://cses.fi/paste/b43cbbc3e2655e34c5cf74/) \| [PY](https://cses.fi/paste/d5f74d15ab38a7c5d5a76f/) |                                                                                                                |
+| 21   | [Grid Coloring I](https://cses.fi/problemset/task/3311)       | [CPP](https://cses.fi/paste/c505ba9e8a3fa1a5c5d95d/)                                                        |                                                                                                                |
+| 22   | [Digit Queries](https://cses.fi/problemset/task/2431)         | [CPP](https://cses.fi/paste/a360de46488e3197c0d157/) \| [PY](https://cses.fi/paste/7a925d82ca902512d6dea0/) |                                                                                                                |
+| 23   | [String Reorder](https://cses.fi/problemset/task/1743)        | [PY](https://cses.fi/paste/2fa61d93c8e0cdbad745c5/)                                                         |                                                                                                                |
+| 24   | [Grid Path Description](https://cses.fi/problemset/task/1625) | [CPP](https://cses.fi/paste/01070d39c0524cc8c290c4/)                                                        |                                                                                                                |
+
+### Futute Improvements
+
+- Ensure each problem has a CPP | PY link with all possible additional submission links
+- Include most relevant references of limited size
+
+### Refs
+
+1. cp-algorithms
+2. Errichto - intro & DP
