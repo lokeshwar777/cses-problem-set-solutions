@@ -29,6 +29,22 @@
 | 23   | [String Reorder](https://cses.fi/problemset/task/1743)        | [PY](https://cses.fi/paste/2fa61d93c8e0cdbad745c5/)                                                         |                                                                                                                |
 | 24   | [Grid Path Description](https://cses.fi/problemset/task/1625) | [CPP](https://cses.fi/paste/01070d39c0524cc8c290c4/)                                                        |                                                                                                                |
 
+## Range Queries
+
+| S.No | Title                                                                  | Sub. Links                                                                                                  | Add. Links                                                                                                    |
+| ---- | ---------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- |
+| 1    | [Static Range Sum Queries](https://cses.fi/problemset/task/1646)       | [CPP](https://cses.fi/paste/4d1cfa22a05f61a9b7cb3d/)                                                        |                                                                                                               |
+| 2    | [Static Range Minimum Queries](https://cses.fi/problemset/task/1647)   | [CPP](https://cses.fi/paste/8dec275c1d00b6f1d76ad4/) \| [PY](https://cses.fi/paste/1dfff1f04e9b2a1fd76957/) | [CPP1](https://cses.fi/paste/259df9bdca1b7471c0daf2/)                                                         |
+| 3    | [Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648/)     | [CPP](https://cses.fi/paste/69ae6bc762f2ce76d78737/) \| [PY](https://cses.fi/paste/28767e15363e3caed682aa/) | [CPP1](https://cses.fi/paste/078e180f38068d16d5edb9/) \| [PY1](https://cses.fi/paste/05c918fa6e767768d78900/) |
+| 4    | [Dynamic Range Minimum Queries](https://cses.fi/problemset/task/1649/) | [CPP](https://cses.fi/paste/f82f90ebe44083afd5eddc/)                                                        |                                                                                                               |
+| 5    | [Range Xor Queries](https://cses.fi/problemset/task/1650/)             | [CPP](https://cses.fi/paste/dad8871f944410a1b7cb56/)                                                        |                                                                                                               |
+| 6    | [Range Update Queries](https://cses.fi/problemset/task/1651)           | [CPP](https://cses.fi/paste/107b513005a16d02d789cb/) \| [PY](https://cses.fi/paste/628d4ae092eecbc9d789a0/) | [CPP1](https://cses.fi/paste/275ef197a65a9a6ad62589/)                                                         |
+| 7    | [Forest Queries](https://cses.fi/problemset/task/1652/)                | [CPP](https://cses.fi/paste/9cd61750ac2608dfd65588/)                                                        | [CPP1](https://cses.fi/paste/24042eac970ef34cd65529/)                                                         |
+| 8    | [Hotel Queries](https://cses.fi/problemset/task/1143/)                 | [CPP](https://cses.fi/paste/a473ac042cd64688d65825/)                                                        |                                                                                                               |
+| 9    | [List Removals](https://cses.fi/problemset/task/1749/)                 |                                                                                                             | [CPP1](https://cses.fi/paste/0889ce042d847ec5d65ec9/)                                                         |
+
+<!-- | 5    | []()                                                                   | [CPP]()                                                                                                     |                                                                                                               | -->
+
 ### Futute Improvements
 
 - Ensure each problem has a CPP | PY link with all possible additional submission links

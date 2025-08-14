@@ -1,0 +1,57 @@
+""" 777 """
+
+# i=index, B=tree, d=delta, N=TREE_SIZE, B1=difference_array, B2=correction_array
+# l=left, r=right,
+# _u=point_update, _q=query, update=range_update, query=range_query, p_sum=prefix_sum
+
+
+class FenwickTree:
+    def __init__(self, N):
+        self.N = N + 2
+        self.B1 = [0] * self.N
+        self.B2 = [0] * self.N
+
+    def _q(self, B, i):
+        s = 0
+        while i > 0:
+            s += B[i]
+            i -= i & -i
+        return s
+
+    def _u(self, B, i, d):
+        while i < self.N:
+            B[i] += d
+            i += i & -i
+
+    def update(self, l, r, d):
+        self._u(self.B1, l, d)
+        self._u(self.B1, r + 1, -d)
+        self._u(self.B2, l, -d * (l - 1))
+        self._u(self.B2, r + 1, d * r)
+
+    def p_sum(self, i):
+        return self._q(self.B1, i) * i + self._q(self.B2, i)
+
+    def query(self, l, r):
+        return self.p_sum(r) - self.p_sum(l - 1)
+
+
+N, Q = map(int, input().split())
+arr = list(map(int, input().split()))
+
+FT = FenwickTree(N)
+for i, x in enumerate(arr):
+    FT.update(i + 1, i + 1, x)
+
+qs = []
+for _ in range(Q):
+    ty, a, b = map(int, input().split())
+    if ty == 1:
+        FT.update(a, a, b - arr[a - 1])
+        arr[a - 1] = b
+    else:
+        q = FT.query(a, b)
+        qs.append(q)
+
+for q in qs:
+    print(q)
