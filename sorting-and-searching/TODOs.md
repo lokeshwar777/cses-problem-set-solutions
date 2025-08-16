@@ -30,15 +30,16 @@
   - seg tree
 
 - 20 - Nested Ranges Check
+  - simpler + clever + tricky implementation
 
 - 21 - Nested Ranges Count
+  - simpler + clever + tricky implementation (PBDS)
 
 - 22 - Room Allocation
   - queue + sweep line
 
-- 25 - Reading Books
-
 - 27 - Sum of Four Values
+  - pairs + set + lower bound
 
 - 29 - Subarray Sums I
   - two pointer + window -> O(N)
@@ -46,6 +47,6 @@
 - 31 - Subarray Divisibility
   - two pointer + window -> O(N)
 
-- 35 - Maximum Subarray Sum
+- 35 - Maximum Subarray Sum II
   - minimum deque -> O(N)
   - multiset + prefix sum -> O(NlogN)
