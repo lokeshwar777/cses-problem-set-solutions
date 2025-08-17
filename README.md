@@ -69,6 +69,12 @@
 | 34   | [Movie Festival II](https://cses.fi/problemset/task/1632)            | [CPP](https://cses.fi/paste/be6cbbe5128ab941d800e4/)                                                        |                                                                |
 | 35   | [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644)      | [CPP]   \| [PY](https://cses.fi/paste/1e894ecb0c8be480d4cccb/)                                              | [PY1](https://cses.fi/paste/a1c114d480e6ca76d4ccfa/) \| [CPP1] |
 
+## Dynamic Programming
+
+| S.No | Title                                                     | Sub. Links                                                                                                  | Add. Links |
+| ---- | --------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- | ---------- |
+| 1    | [Dice Combinations](https://cses.fi/problemset/task/1633) | [CPP](https://cses.fi/paste/860efb5b57664119c7bc04/) \| [PY](https://cses.fi/paste/933403e7d556e43cd83f26/) |            |
+
 ## Range Queries
 
 | S.No | Title                                                                  | Sub. Links                                                                                                  | Add. Links                                                                                                    |
