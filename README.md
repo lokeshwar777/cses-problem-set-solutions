@@ -77,6 +77,7 @@
 | 2    | [Minimizing Coins](https://cses.fi/problemset/task/1634)     | [CPP](https://cses.fi/paste/97edc234b5f768ebd840cd/)                                                        | [CPP1](https://cses.fi/paste/a1c05442d5fd88d1c7bc7d/) \| [CPP2](https://cses.fi/paste/82453b9b82210d5dc31c5e/) |
 | 3    | [Coin Combinations I](https://cses.fi/problemset/task/1635)  | [CPP](https://cses.fi/paste/0cbb2ff04b4a1744d8419b/)                                                        | [CPP1](https://cses.fi/paste/319559d58b87df87c7bcaf/)                                                          |
 | 4    | [Coin Combinations II](https://cses.fi/problemset/task/1636) | [CPP](https://cses.fi/paste/9aefe8e18cc77fb4d8424a/)                                                        | [CPP1](https://cses.fi/paste/dee27f25dbbc815cc647ab/)                                                          |
+| 5    | [Removing Digits](https://cses.fi/problemset/task/1637)      | [CPP]                                                                                                       | [CPP1](https://cses.fi/paste/9f6b0c3fee4046c8d84305/) \| [CPP2](https://cses.fi/paste/3efea8640af8d72ac7a1be/) |
 
 ## Range Queries
 
