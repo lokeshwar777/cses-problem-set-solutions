@@ -78,6 +78,7 @@
 | 3    | [Coin Combinations I](https://cses.fi/problemset/task/1635)  | [CPP](https://cses.fi/paste/0cbb2ff04b4a1744d8419b/)                                                        | [CPP1](https://cses.fi/paste/319559d58b87df87c7bcaf/)                                                          |
 | 4    | [Coin Combinations II](https://cses.fi/problemset/task/1636) | [CPP](https://cses.fi/paste/9aefe8e18cc77fb4d8424a/)                                                        | [CPP1](https://cses.fi/paste/dee27f25dbbc815cc647ab/)                                                          |
 | 5    | [Removing Digits](https://cses.fi/problemset/task/1637)      | [CPP]                                                                                                       | [CPP1](https://cses.fi/paste/9f6b0c3fee4046c8d84305/) \| [CPP2](https://cses.fi/paste/3efea8640af8d72ac7a1be/) |
+| 6    | [Grid Paths I](https://cses.fi/problemset/task/1638)         | [CPP](https://cses.fi/paste/31e5e5bdd61d4986d84493/)                                                        | [CPP1](https://cses.fi/paste/c61e42232199a420c33786/)                                                          |
 
 ## Range Queries
 
