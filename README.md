@@ -85,6 +85,7 @@
 | 10   | [Edit Distance](https://cses.fi/problemset/task/1639)              | [CPP]                                                                                                       | [CPP1](https://cses.fi/paste/8e9c7d2a71b2d873c7c0e5/) \| [CPP2](https://cses.fi/paste/1b30bb9f84c85296d8c50b/) \| [CPP3](https://cses.fi/paste/2409d2ad58018e5bc7c08a/) |
 | 11   | [Longest Common Subsequence](https://cses.fi/problemset/task/3403) | [CPP](https://cses.fi/paste/3ac38bf12ea4c96bd8c62a/) \| [PY](https://cses.fi/paste/c98a071b7c78dd77d8c7b2/) | [CPP1]                                                                                                                                                                  |
 | 12   | [Rectangle Cutting](https://cses.fi/problemset/task/1744)          | [CPP](https://cses.fi/paste/bd877b68b537ebf1d8c91d/)                                                        |                                                                                                                                                                         |
+| 14   | [Money Sums](https://cses.fi/problemset/task/1745)                 | [CPP](https://cses.fi/paste/f8061832d5ef51f3d8cec4/)                                                        | [CPP1] \| [CPP2]                                                                                                                                                        |
 
 ## Range Queries
 
