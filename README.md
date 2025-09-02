@@ -87,6 +87,7 @@
 | 12   | [Rectangle Cutting](https://cses.fi/problemset/task/1744)          | [CPP](https://cses.fi/paste/bd877b68b537ebf1d8c91d/)                                                        |                                                                                                                                                                         |
 | 14   | [Money Sums](https://cses.fi/problemset/task/1745)                 | [CPP](https://cses.fi/paste/f8061832d5ef51f3d8cec4/)                                                        | [CPP1] \| [CPP2]                                                                                                                                                        |
 | 16   | [Two Sets II](https://cses.fi/problemset/task/1093)                | [CPP](https://cses.fi/paste/e5296b99d38c3132d8d961/)                                                        | [CPP1](https://cses.fi/paste/51451aacd1d26e09c80f2b/)                                                                                                                   |
+| 18   | [Increasing Subsequence](https://cses.fi/problemset/task/1145)     | [CPP](https://cses.fi/paste/be3764dc83e17095d8f0b6/)                                                        |                                                                                                                                                                         |
 
 ## Range Queries
 
