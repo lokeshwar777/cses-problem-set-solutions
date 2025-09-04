@@ -97,6 +97,12 @@
 | 22   | [Counting Numbers](https://cses.fi/problemset/task/2220)           | [CPP]                                                                                                       |                                                                                                                                                                         |
 | 23   | [Increasing Subsequence II](https://cses.fi/problemset/task/1748)  | [CPP]                                                                                                       |                                                                                                                                                                         |
 
+## Graph Algorithms
+
+| S.No | Title                                                   | Sub. Links                                           | Add. Links                                            |
+| ---- | ------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------- |
+| 1    | [Counting Rooms](https://cses.fi/problemset/task/1192/) | [CPP](https://cses.fi/paste/49d6b85531098f5dc3a858/) | [CPP1](https://cses.fi/paste/5bcfa1a6f664c0a9da147e/) |
+
 ## Range Queries
 
 | S.No | Title                                                                  | Sub. Links                                                                                                  | Add. Links                                                                                                    |
