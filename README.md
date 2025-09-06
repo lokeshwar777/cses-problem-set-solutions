@@ -103,6 +103,7 @@
 | ---- | ------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------- |
 | 1    | [Counting Rooms](https://cses.fi/problemset/task/1192/) | [CPP](https://cses.fi/paste/49d6b85531098f5dc3a858/) | [CPP1](https://cses.fi/paste/5bcfa1a6f664c0a9da147e/) |
 | 2    | [Labyrinth](https://cses.fi/problemset/task/1193/)      | [CPP](https://cses.fi/paste/c5e33222088e2eb0da1d14/) | [CPP1](https://cses.fi/paste/ab08a56af0e69f8fc3af78/) |
+| 3    | [Building Roads](https://cses.fi/problemset/task/1666/) | [CPP](https://cses.fi/paste/443b47b45630435cda1f19/) | [CPP1](https://cses.fi/paste/3056a1d2fb9e7ce0c3ca0d/) |
 
 ## Range Queries
 
