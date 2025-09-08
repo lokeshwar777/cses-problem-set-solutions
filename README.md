@@ -105,6 +105,7 @@
 | 2    | [Labyrinth](https://cses.fi/problemset/task/1193/)      | [CPP](https://cses.fi/paste/c5e33222088e2eb0da1d14/) | [CPP1](https://cses.fi/paste/ab08a56af0e69f8fc3af78/)                                                          |
 | 3    | [Building Roads](https://cses.fi/problemset/task/1666/) | [CPP](https://cses.fi/paste/443b47b45630435cda1f19/) | [CPP1](https://cses.fi/paste/3056a1d2fb9e7ce0c3ca0d/)                                                          |
 | 4    | [Message Route](https://cses.fi/problemset/task/1667/)  | [CPP]                                                | [CPP1](https://cses.fi/paste/479e9278f002d24bda21cb/) \| [CPP2](https://cses.fi/paste/47a7ef31a88787c6c3ca55/) |
+| 5    | [Building Teams](https://cses.fi/problemset/task/1668/) | [CPP](https://cses.fi/paste/7d3f69eb72347194dbe2e8/) | [CPP1](https://cses.fi/paste/98316f44f5f4b66ec3d1ad/)                                                          |
 
 ## Range Queries
 
