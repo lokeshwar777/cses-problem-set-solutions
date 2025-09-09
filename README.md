@@ -99,13 +99,14 @@
 
 ## Graph Algorithms
 
-| S.No | Title                                                   | Sub. Links                                           | Add. Links                                                                                                     |
-| ---- | ------------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
-| 1    | [Counting Rooms](https://cses.fi/problemset/task/1192/) | [CPP](https://cses.fi/paste/49d6b85531098f5dc3a858/) | [CPP1](https://cses.fi/paste/5bcfa1a6f664c0a9da147e/)                                                          |
-| 2    | [Labyrinth](https://cses.fi/problemset/task/1193/)      | [CPP](https://cses.fi/paste/c5e33222088e2eb0da1d14/) | [CPP1](https://cses.fi/paste/ab08a56af0e69f8fc3af78/)                                                          |
-| 3    | [Building Roads](https://cses.fi/problemset/task/1666/) | [CPP](https://cses.fi/paste/443b47b45630435cda1f19/) | [CPP1](https://cses.fi/paste/3056a1d2fb9e7ce0c3ca0d/)                                                          |
-| 4    | [Message Route](https://cses.fi/problemset/task/1667/)  | [CPP]                                                | [CPP1](https://cses.fi/paste/479e9278f002d24bda21cb/) \| [CPP2](https://cses.fi/paste/47a7ef31a88787c6c3ca55/) |
-| 5    | [Building Teams](https://cses.fi/problemset/task/1668/) | [CPP](https://cses.fi/paste/7d3f69eb72347194dbe2e8/) | [CPP1](https://cses.fi/paste/98316f44f5f4b66ec3d1ad/)                                                          |
+| S.No | Title                                                   | Sub. Links                                           | Add. Links                                                                                                                                                              |
+| ---- | ------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1    | [Counting Rooms](https://cses.fi/problemset/task/1192/) | [CPP](https://cses.fi/paste/49d6b85531098f5dc3a858/) | [CPP1](https://cses.fi/paste/5bcfa1a6f664c0a9da147e/)                                                                                                                   |
+| 2    | [Labyrinth](https://cses.fi/problemset/task/1193/)      | [CPP](https://cses.fi/paste/c5e33222088e2eb0da1d14/) | [CPP1](https://cses.fi/paste/ab08a56af0e69f8fc3af78/)                                                                                                                   |
+| 3    | [Building Roads](https://cses.fi/problemset/task/1666/) | [CPP](https://cses.fi/paste/443b47b45630435cda1f19/) | [CPP1](https://cses.fi/paste/3056a1d2fb9e7ce0c3ca0d/)                                                                                                                   |
+| 4    | [Message Route](https://cses.fi/problemset/task/1667/)  | [CPP]                                                | [CPP1](https://cses.fi/paste/479e9278f002d24bda21cb/) \| [CPP2](https://cses.fi/paste/47a7ef31a88787c6c3ca55/)                                                          |
+| 5    | [Building Teams](https://cses.fi/problemset/task/1668/) | [CPP](https://cses.fi/paste/7d3f69eb72347194dbe2e8/) | [CPP1](https://cses.fi/paste/98316f44f5f4b66ec3d1ad/)                                                                                                                   |
+| 6    | [Round Trip](https://cses.fi/problemset/task/1669/)     | [CPP]                                                | [CPP1](https://cses.fi/paste/a78ddf49f7fbf4b9dbb26b/) \| [CPP2](https://cses.fi/paste/00664a2db6e5c6bfdba158/) \| [CPP3](https://cses.fi/paste/9744bd796ec2b73ac3dc18/) |
 
 ## Range Queries
 
@@ -120,6 +121,27 @@
 | 7    | [Forest Queries](https://cses.fi/problemset/task/1652/)                | [CPP](https://cses.fi/paste/9cd61750ac2608dfd65588/)                                                        | [CPP1](https://cses.fi/paste/24042eac970ef34cd65529/)                                                         |
 | 8    | [Hotel Queries](https://cses.fi/problemset/task/1143/)                 | [CPP](https://cses.fi/paste/a473ac042cd64688d65825/)                                                        |                                                                                                               |
 | 9    | [List Removals](https://cses.fi/problemset/task/1749/)                 |                                                                                                             | [CPP1](https://cses.fi/paste/0889ce042d847ec5d65ec9/)                                                         |
+
+## Tree Algorithms
+
+| S.No | Title                                                          | Sub. Links | Add. Links |
+| ---- | -------------------------------------------------------------- | ---------- | ---------- |
+| 1    | [Subordinates](https://cses.fi/problemset/task/1674/)          | [CPP]      |            |
+| 2    | [Tree Matching](https://cses.fi/problemset/task/1130/)         | [CPP]      |            |
+| 3    | [Tree Diameter](https://cses.fi/problemset/task/1131/)         | [CPP]      |            |
+| 4    | [Tree Distances I](https://cses.fi/problemset/task/1132/)      | [CPP]      |            |
+| 5    | [Tree Distances II](https://cses.fi/problemset/task/1133/)     | [CPP]      |            |
+| 6    | [Company Queries I](https://cses.fi/problemset/task/1687/)     | [CPP]      |            |
+| 7    | [Company Queries II](https://cses.fi/problemset/task/1688/)    | [CPP]      |            |
+| 8    | [Distance Queries](https://cses.fi/problemset/task/1135/)      | [CPP]      |            |
+| 9    | [Counting Paths](https://cses.fi/problemset/task/1136/)        | [CPP]      |            |
+| 10   | [Subtree Queries](https://cses.fi/problemset/task/1137/)       | [CPP]      |            |
+| 11   | [Path Queries](https://cses.fi/problemset/task/1138/)          | [CPP]      |            |
+| 12   | [Path Queries II](https://cses.fi/problemset/task/2134/)       | [CPP]      |            |
+| 13   | [Distinct Colors](https://cses.fi/problemset/task/1139/)       | [CPP]      |            |
+| 14   | [Finding a Centroid](https://cses.fi/problemset/task/2079/)    | [CPP]      |            |
+| 15   | [Fixed-Length Paths I](https://cses.fi/problemset/task/2080/)  | [CPP]      |            |
+| 16   | [Fixed-Length Paths II](https://cses.fi/problemset/task/2081/) | [CPP]      |            |
 
 ### Futute Improvements
 
