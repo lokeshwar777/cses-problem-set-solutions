@@ -107,6 +107,7 @@
 | 4    | [Message Route](https://cses.fi/problemset/task/1667/)  | [CPP]                                                | [CPP1](https://cses.fi/paste/479e9278f002d24bda21cb/) \| [CPP2](https://cses.fi/paste/47a7ef31a88787c6c3ca55/)                                                          |
 | 5    | [Building Teams](https://cses.fi/problemset/task/1668/) | [CPP](https://cses.fi/paste/7d3f69eb72347194dbe2e8/) | [CPP1](https://cses.fi/paste/98316f44f5f4b66ec3d1ad/)                                                                                                                   |
 | 6    | [Round Trip](https://cses.fi/problemset/task/1669/)     | [CPP]                                                | [CPP1](https://cses.fi/paste/a78ddf49f7fbf4b9dbb26b/) \| [CPP2](https://cses.fi/paste/00664a2db6e5c6bfdba158/) \| [CPP3](https://cses.fi/paste/9744bd796ec2b73ac3dc18/) |
+| 7    | [Monsters](https://cses.fi/problemset/task/1194/)       | [CPP](https://cses.fi/paste/ac62df62589c625bdbb61a/) |                                                                                                                                                                         |
 
 ## Range Queries
 
