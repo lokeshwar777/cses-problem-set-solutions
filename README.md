@@ -125,6 +125,7 @@
 | 7    | [Forest Queries](https://cses.fi/problemset/task/1652/)                | [CPP](https://cses.fi/paste/9cd61750ac2608dfd65588/)                                                        | [CPP1](https://cses.fi/paste/24042eac970ef34cd65529/)                                                         |
 | 8    | [Hotel Queries](https://cses.fi/problemset/task/1143/)                 | [CPP](https://cses.fi/paste/a473ac042cd64688d65825/)                                                        |                                                                                                               |
 | 9    | [List Removals](https://cses.fi/problemset/task/1749/)                 |                                                                                                             | [CPP1](https://cses.fi/paste/0889ce042d847ec5d65ec9/)                                                         |
+| 22   | [Range Updates and Sums](https://cses.fi/problemset/task/1749/)        | [CPP](https://cses.fi/paste/faa4d1e27e18c1bdde1772/)                                                        |                                                                                                               |
 
 ## Tree Algorithms
 
