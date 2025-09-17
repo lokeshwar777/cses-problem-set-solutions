@@ -129,24 +129,9 @@
 
 ## Tree Algorithms
 
-| S.No | Title                                                          | Sub. Links | Add. Links |
-| ---- | -------------------------------------------------------------- | ---------- | ---------- |
-| 1    | [Subordinates](https://cses.fi/problemset/task/1674/)          | [CPP]      |            |
-| 2    | [Tree Matching](https://cses.fi/problemset/task/1130/)         | [CPP]      |            |
-| 3    | [Tree Diameter](https://cses.fi/problemset/task/1131/)         | [CPP]      |            |
-| 4    | [Tree Distances I](https://cses.fi/problemset/task/1132/)      | [CPP]      |            |
-| 5    | [Tree Distances II](https://cses.fi/problemset/task/1133/)     | [CPP]      |            |
-| 6    | [Company Queries I](https://cses.fi/problemset/task/1687/)     | [CPP]      |            |
-| 7    | [Company Queries II](https://cses.fi/problemset/task/1688/)    | [CPP]      |            |
-| 8    | [Distance Queries](https://cses.fi/problemset/task/1135/)      | [CPP]      |            |
-| 9    | [Counting Paths](https://cses.fi/problemset/task/1136/)        | [CPP]      |            |
-| 10   | [Subtree Queries](https://cses.fi/problemset/task/1137/)       | [CPP]      |            |
-| 11   | [Path Queries](https://cses.fi/problemset/task/1138/)          | [CPP]      |            |
-| 12   | [Path Queries II](https://cses.fi/problemset/task/2134/)       | [CPP]      |            |
-| 13   | [Distinct Colors](https://cses.fi/problemset/task/1139/)       | [CPP]      |            |
-| 14   | [Finding a Centroid](https://cses.fi/problemset/task/2079/)    | [CPP]      |            |
-| 15   | [Fixed-Length Paths I](https://cses.fi/problemset/task/2080/)  | [CPP]      |            |
-| 16   | [Fixed-Length Paths II](https://cses.fi/problemset/task/2081/) | [CPP]      |            |
+| S.No | Title                                                 | Sub. Links                                           | Add. Links |
+| ---- | ----------------------------------------------------- | ---------------------------------------------------- | ---------- |
+| 1    | [Subordinates](https://cses.fi/problemset/task/1674/) | [CPP](https://cses.fi/paste/063ad63a10f84549c50c12/) |            |
 
 ### Futute Improvements
 
