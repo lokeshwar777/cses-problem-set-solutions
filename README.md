@@ -129,9 +129,10 @@
 
 ## Tree Algorithms
 
-| S.No | Title                                                 | Sub. Links                                           | Add. Links |
-| ---- | ----------------------------------------------------- | ---------------------------------------------------- | ---------- |
-| 1    | [Subordinates](https://cses.fi/problemset/task/1674/) | [CPP](https://cses.fi/paste/063ad63a10f84549c50c12/) |            |
+| S.No | Title                                                  | Sub. Links                                           | Add. Links |
+| ---- | ------------------------------------------------------ | ---------------------------------------------------- | ---------- |
+| 1    | [Subordinates](https://cses.fi/problemset/task/1674/)  | [CPP](https://cses.fi/paste/063ad63a10f84549c50c12/) |            |
+| 2    | [Tree Matching](https://cses.fi/problemset/task/1130/) | [CPP](https://cses.fi/paste/f28a122b3601afbbd98287/) |            |
 
 ### Futute Improvements
 
