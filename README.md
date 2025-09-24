@@ -138,6 +138,7 @@
 | 5    | [Tree Distances II](https://cses.fi/problemset/task/1133/)  | [CPP](https://cses.fi/paste/e4741192aabc0338d9fdaa/) | [CPP1](https://cses.fi/paste/5bc8248fdb5ef76dc7de87/)                                                                                                                   |
 | 6    | [Company Queries I](https://cses.fi/problemset/task/1687/)  | [CPP](https://cses.fi/paste/34e92577dd18ff6ada75da/) | [CPP1](https://cses.fi/paste/ef525dffe4fe2ee5da0bbd/)                                                                                                                   |
 | 7    | [Company Queries II](https://cses.fi/problemset/task/1688/) | [CPP](https://cses.fi/paste/767ae5111cfd375eda7e7d/) | [CPP1](https://cses.fi/paste/5a783e653801a61eddc511/)                                                                                                                   |
+| 8    | [Distance Queries](https://cses.fi/problemset/task/1135/)   | [CPP](https://cses.fi/paste/17f28a64c5dca89ada76d5/) |                                                                                                                                                                         |
 
 ### Futute Improvements
 
