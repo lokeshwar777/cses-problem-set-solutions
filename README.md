@@ -140,6 +140,7 @@
 | 7    | [Company Queries II](https://cses.fi/problemset/task/1688/) | [CPP](https://cses.fi/paste/767ae5111cfd375eda7e7d/) | [CPP1](https://cses.fi/paste/5a783e653801a61eddc511/)                                                                                                                   |
 | 8    | [Distance Queries](https://cses.fi/problemset/task/1135/)   | [CPP](https://cses.fi/paste/17f28a64c5dca89ada76d5/) |                                                                                                                                                                         |
 | 9    | [Counting Paths](https://cses.fi/problemset/task/1136/)     | [CPP](https://cses.fi/paste/ffd9628de06e88addfb241/) |                                                                                                                                                                         |
+| 10   | [Subtree Queries](https://cses.fi/problemset/task/1137/)    | [CPP](https://cses.fi/paste/0cc3ac24114a4f1cdd72db/) | [CPP1](https://cses.fi/paste/88d0b7a655af5c66dd72fb/)                                                                                                                   |
 
 ### Futute Improvements
 
