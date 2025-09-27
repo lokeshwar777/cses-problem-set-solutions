@@ -141,6 +141,7 @@
 | 8    | [Distance Queries](https://cses.fi/problemset/task/1135/)   | [CPP](https://cses.fi/paste/17f28a64c5dca89ada76d5/) |                                                                                                                                                                         |
 | 9    | [Counting Paths](https://cses.fi/problemset/task/1136/)     | [CPP](https://cses.fi/paste/ffd9628de06e88addfb241/) |                                                                                                                                                                         |
 | 10   | [Subtree Queries](https://cses.fi/problemset/task/1137/)    | [CPP](https://cses.fi/paste/0cc3ac24114a4f1cdd72db/) | [CPP1](https://cses.fi/paste/88d0b7a655af5c66dd72fb/)                                                                                                                   |
+| 11   | [Path Queries](https://cses.fi/problemset/task/1138/)       | [CPP](https://cses.fi/paste/630824ed20ff4ffbddc766/) |                                                                                                                                                                         |
 
 ### Futute Improvements
 
