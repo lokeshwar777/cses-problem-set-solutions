@@ -148,6 +148,12 @@
 | 15   | [Fixed-Length Paths I](https://cses.fi/problemset/task/2080/)  | [CPP]                                                |                                                                                                                                                                         |
 | 16   | [Fixed-Length Paths II](https://cses.fi/problemset/task/2081/) | [CPP]                                                |                                                                                                                                                                         |
 
+## Mathematics
+
+| S.No | Title                                                   | Sub. Links                                           | Add. Links                                            |
+| ---- | ------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------- |
+| 2    | [Exponentiation](https://cses.fi/problemset/task/1095/) | [CPP](https://cses.fi/paste/3fdef9c3ee5b51a4dcaac9/) | [CPP1](https://cses.fi/paste/45d5b37adad15edec7f117/) |
+
 ### Futute Improvements
 
 - Ensure each problem has a CPP | PY link with all possible additional submission links
