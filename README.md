@@ -154,6 +154,7 @@
 | ---- | ---------------------------------------------------------- | ---------------------------------------------------- | ----------------------------------------------------- |
 | 2    | [Exponentiation](https://cses.fi/problemset/task/1095/)    | [CPP](https://cses.fi/paste/3fdef9c3ee5b51a4dcaac9/) | [CPP1](https://cses.fi/paste/45d5b37adad15edec7f117/) |
 | 3    | [Exponentiation II](https://cses.fi/problemset/task/1712/) | [CPP](https://cses.fi/paste/bb81b03b5057cb2adcab06/) |                                                       |
+| 4    | [Counting Divisors](https://cses.fi/problemset/task/1713/) | [CPP](https://cses.fi/paste/9579c9d5b60a9315dcab35/) |                                                       |
 
 ### Futute Improvements
 
