@@ -156,6 +156,7 @@
 | 3    | [Exponentiation II](https://cses.fi/problemset/task/1712/) | [CPP](https://cses.fi/paste/bb81b03b5057cb2adcab06/) |                                                       |
 | 4    | [Counting Divisors](https://cses.fi/problemset/task/1713/) | [CPP](https://cses.fi/paste/9579c9d5b60a9315dcab35/) |                                                       |
 | 5    | [Common Divisors](https://cses.fi/problemset/task/1081/)   | [CPP](https://cses.fi/paste/db82fe2ddde19f83dcab90/) |                                                       |
+| 32   | [Stick Game](https://cses.fi/problemset/task/1729/)        | [CPP](https://cses.fi/paste/4372561f04c63057dc87fb/) |                                                       |
 
 ### Futute Improvements
 
