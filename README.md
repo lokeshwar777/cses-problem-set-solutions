@@ -157,6 +157,7 @@
 | 4    | [Counting Divisors](https://cses.fi/problemset/task/1713/) | [CPP](https://cses.fi/paste/9579c9d5b60a9315dcab35/) |                                                       |
 | 5    | [Common Divisors](https://cses.fi/problemset/task/1081/)   | [CPP](https://cses.fi/paste/db82fe2ddde19f83dcab90/) |                                                       |
 | 32   | [Stick Game](https://cses.fi/problemset/task/1729/)        | [CPP](https://cses.fi/paste/4372561f04c63057dc87fb/) |                                                       |
+| 33   | [Nim Game I](https://cses.fi/problemset/task/1730/)        | [CPP](https://cses.fi/paste/40a83f4c37da13f1dc8828/) |                                                       |
 
 ### Futute Improvements
 
