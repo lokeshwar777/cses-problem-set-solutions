@@ -160,6 +160,7 @@
 | 33   | [Nim Game I](https://cses.fi/problemset/task/1730/)        | [CPP](https://cses.fi/paste/40a83f4c37da13f1dc8828/) |                                                       |
 | 34   | [Nim Game II](https://cses.fi/problemset/task/1098/)       | [CPP](https://cses.fi/paste/64e7289e3d874a95dc8875/) |                                                       |
 | 35   | [Stair Game](https://cses.fi/problemset/task/1099/)        | [CPP](https://cses.fi/paste/160c43571c099963dc8989/) |                                                       |
+| 36   | [Grundy’s Game](https://cses.fi/problemset/task/2207/)     | [CPP](https://cses.fi/paste/424f448be219abe0dca9ec/) |                                                       |
 
 ### Futute Improvements
 
